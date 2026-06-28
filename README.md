@@ -2,14 +2,8 @@
 **A passionate Artifical Intelligence || Software development || Programming**
 
 <div align="right">
-  <img src="user.gif" alt="Demo" width="300",lenght=300>
+  <img src="user.gif" alt="Demo" size=30>
 </div>
-<p align="center">
-    <a href="https://github.com/Taha-Shaikh7">
-    <img src="user.gif" alt="Demo" width="300",lenght=300?lines=Hi%20there,%20I'm%20Muhammad Taha ;&font=Fira%20Code&center=true&width=640&height=45&color=ff79c6&vCenter=true&pause=1000&size=30" />
-    </a>
-</p>
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/taha-shaikh-82b497355) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/TahaShaikh50016) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ts4737076@gmail.com)
