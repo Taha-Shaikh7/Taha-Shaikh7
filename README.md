@@ -1,5 +1,7 @@
-# 💫 About Me:
-AI Student at Aror University with a strong interest in Artifical Intelligence, software development, and programming. Passionate about learning, building projects, and enhancing problem-solving skills. Dedicated to continuous growth and applying technology to solve real-world challenges.
+# 💫 Hi 👋, Muhammad Taha 
+**A passionate Artifical Intelligence || Software development || Programming**
+
+Email Me 👉 ✉️ **ts4737076@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 
 ## 🌐 Socials:
