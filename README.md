@@ -2,7 +2,7 @@
 **A passionate Artifical Intelligence || Software development || Programming**
 
 <div align="right">
-  <img src="https://user-images.githubusercontent.com/your-username/developer.gif" alt="Developer working" width="300" />
+  <img src="https://user-images.githubusercontent.com/Taha-Shaikh7/developer.gif" alt="Developer working" width="300" />
 </div>
 
 Email Me 👉 ✉️ **ts4737076@gmail.com** For Collaboration/Project or Anything Else. 😊😊
