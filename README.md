@@ -1,8 +1,8 @@
 # 💫 Hi 👋, Muhammad Taha 
 **A passionate Artifical Intelligence || Software development || Programming**
 
-<div align="right">
-  <img src="user.gif" alt="Demo" width=200 length=200>
+<div align="left">
+  <img src="user.gif" alt="Demo" width=300 length=300>
 </div>
 
 ## 🌐 Socials:
