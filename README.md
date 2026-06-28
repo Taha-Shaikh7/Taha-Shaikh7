@@ -6,7 +6,7 @@
 </div>
 <p align="center">
     <a href="https://linkedin.com/in/taha-shaikh-82b497355">
-        <img src="assets/mylinkedIn.png" height="40" alt="LinkedIn">
+        <img src="linked.jpg" height="40" alt="LinkedIn">
     </a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
