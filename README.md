@@ -4,8 +4,11 @@
 <div align="right">
   <img src="user.gif" alt="Demo" width="300",lenght=300>
 </div>
-
-Email Me 👉 ✉️ **ts4737076@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+<p align="center">
+    <a href="https://github.com/Taha-Shaikh7">
+    <img src="user.gif" alt="Demo" width="300",lenght=300?lines=Hi%20there,%20I'm%20Muhammad Taha ;&font=Fira%20Code&center=true&width=640&height=45&color=ff79c6&vCenter=true&pause=1000&size=30" />
+    </a>
+</p>
 
 
 ## 🌐 Socials:
