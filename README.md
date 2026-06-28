@@ -2,7 +2,7 @@
 **A passionate Artifical Intelligence || Software development || Programming**
 
 <div align="right">
-  <img src="user.gif" alt="Demo" size=10>
+  <img src="user.gif" alt="Demo" width=100 length=100>
 </div>
 
 ## 🌐 Socials:
