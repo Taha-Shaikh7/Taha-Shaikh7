@@ -4,6 +4,11 @@
 <div align="left">
   <img src="user.gif" alt="Demo" width=300 length=300>
 </div>
+<p align="center">
+    <a href="https://linkedin.com/in/taha-shaikh-82b497355">
+        <img src="assets/mylinkedIn.png" height="40" alt="LinkedIn">
+    </a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/taha-shaikh-82b497355) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/TahaShaikh50016) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ts4737076@gmail.com)
