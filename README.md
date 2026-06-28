@@ -2,7 +2,7 @@
 **A passionate Artifical Intelligence || Software development || Programming**
 
 <div align="right">
-  <img src="user.gif" alt="Demo" width="500">
+  <img src="user.gif" alt="Demo" width="300",lenght=300>
 </div>
 
 Email Me 👉 ✉️ **ts4737076@gmail.com** For Collaboration/Project or Anything Else. 😊😊
