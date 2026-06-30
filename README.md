@@ -37,8 +37,6 @@
     <img src="https://github-readme-stats-ten-olive-80.vercel.app/api?username=Taha-Shaikh7&show_icons=f&line_height=28&rank_icon=github&theme=tokyonight&hide_border=true&text_color=e8df7a"><br>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Taha-Shaikh7&theme=tokyonight&exclude={}" width="33%"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Taha-Shaikh7&theme=tokyonight&exclude={exclude}" width="33%"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Taha-Shaikh7&theme=tokyonight&utcOffset=+5" width="33%"><br>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Taha-Shaikh7&theme=tokyonight" width="100%">
-<img src="https://raw.githubusercontent.com/Taha-Shaikh7/Taha-Shaikh7/output-3d-contrib/profile-green-dual.svg" alt="3D Contributions"/>
- <img src="https://raw.githubusercontent.com/Taha-Shaikh7/Taha-Shaikh7/snake/github-snake-dark.svg" width="100%"><br>
 </p>
 
 
@@ -56,8 +54,5 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Taha-Shaikh7&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
----
-[![](https://komarev.com/ghpvc/?username=Taha-Shaikh7&icon=0&color=0)](https://visitcount.itsvg.in)
-
+## ✍️ Random Dev Quote
+<img src="https://quotes-github-readme.vercel.app/api?type=vetical&quoteColor=ff79c6&authorColor=d8d8dd&backgroundColor=RRGGBBAA&symbolColor=e8df7a">
