@@ -1,13 +1,7 @@
-<div align="center">
-<b>💫 Hi 👋, I'm Muhammad Taha</b><br>
-
-<b>Passionate AI Student | Software Development | Programming</b>
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Artificial+Intelligence+Student;Future+AI+Engineer;Machine+Learning+Enthusiast;Python+Developer;Open+to+Internships+%26+Collaboration" />
-
-</div>
-
+<p align="center">
+    <a href="https://github.com/Taha-Shaikh7">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hi%20there,%20I'm%20MuhammadTaha!;Top+10+GitHub+Committer+in+Pakistan;Top+10+LeetCoder+in+Pakistan&font=Fira%20Code&center=true&width=640&height=45&color=ff79c6&vCenter=true&pause=1000&size=30" />
+    </a>
 
 
 <div align="left">
