@@ -14,11 +14,15 @@
 <img src="linked.jpg" height="40" alt="LinkedIn"></a>
 
 <a href="https://x.com/TahaShaikh50016">
-<img src="twitter.avif" height="40" alt="X">
+<img src="twitter.avif" height="45" alt="X">
 </a>
 
 <a href="https://instagram.com/muhammad_taha_shaikh">
-<img src="instagram.avif" height="40" alt="Instagram">
+<img src="instagram.avif" height="45" alt="Instagram">
+
+<a href="https://mail.google.com/mail/?view=cm&to=ts4737076@gmail.com">
+<img src="gmail.avif" height="45" alt="Gmail">
+</a>
 
 
 
