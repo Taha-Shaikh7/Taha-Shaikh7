@@ -1,5 +1,5 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=800&lines=
-💫 Hi 👋, Muhammad Taha;Artificial+Intelligence+Student;Future+AI+Engineer;Machine+Learning+Enthusiast;Python+Developer;Open+to+Internships+%26+Collaboration" /><br><img src="https://komarev.com/ghpvc/?username=Taha-Shaikh7&style=for-the-badge&color=black" /><img src="https://img.shields.io/github/followers/Taha-Shaikh7?style=for-the-badge" /><img src="https://img.shields.io/github/stars/Taha-Shaikh7?style=for-the-badge" /></div>
+💫 Hi 👋, Muhammad Taha;Artificial+Intelligence+Student;Future+AI+Engineer;Machine+Learning+Enthusiast;Python+Developer;Open+to+Internships+%26+Collaboration" /><br><img src="https://komarev.com/ghpvc/?username=Taha-Shaikh7&style=for-the-badge&color=pink" /><img src="https://img.shields.io/github/followers/Taha-Shaikh7?style=for-the-badge" /><img src="https://img.shields.io/github/stars/Taha-Shaikh7?style=for-the-badge" /></div>
 
 # 💫 Hi 👋, Muhammad Taha 
 **A passionate Artifical Intelligence || Software development || Programming**
