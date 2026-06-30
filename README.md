@@ -5,6 +5,7 @@
 <div align="left">
   <img src="user.gif" alt="Demo" width=300 length=300>
 </div>
+
 ## 📫 Connect with Me
 
 <a href="https://linkedin.com/in/taha-shaikh-82b497355" target="_blank" rel="noopener noreferrer">
