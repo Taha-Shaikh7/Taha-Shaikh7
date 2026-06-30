@@ -1,6 +1,8 @@
-<div align="center"><b>💫 Hi 👋, I'm Muhammad Taha</b>
+<div align="center">
+<b>💫 Hi 👋, I'm Muhammad Taha</b><br>
 
-<b>Passionate AI Student | Software Development | Programming<b><div align="center">
+<b>Passionate AI Student | Software Development | Programming</b>
+<br><br>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Artificial+Intelligence+Student;Future+AI+Engineer;Machine+Learning+Enthusiast;Python+Developer;Open+to+Internships+%26+Collaboration" />
 
@@ -35,7 +37,7 @@ Programming Languages
 
 📈 Contribution Activity
 
-<p align="center">
+<p>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Taha-Shaikh7&theme=tokyo-night&hide_border=true" />
 </p>
 
