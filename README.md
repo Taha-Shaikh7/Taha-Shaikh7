@@ -55,4 +55,4 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Taha-Shaikh7&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 ## ✍️ Random Dev Quote
-<img src="https://quotes-github-readme.vercel.app/api?type=vetical&quoteColor=ff79c6&authorColor=d8d8dd&backgroundColor=RRGGBBAA&symbolColor=e8df7a">
+<img src="https://quotes-github-readme.vercel.app/api?type=vetical&quoteColor=0A66C2&authorColor=d8d8dd&backgroundColor=RRGGBBAA&symbolColor=e8df7a">
