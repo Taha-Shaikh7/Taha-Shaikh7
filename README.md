@@ -15,8 +15,10 @@
 </div>
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/taha-shaikh-82b497355) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/TahaShaikh50016) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ts4737076@gmail.com)
+## 📫 Connect with Me
+<a href="https://linkedin.com/in/taha-shaikh-82b497355">
+        <img src="linked.jpg" height="40" alt="LinkedIn">
+    </a>
 
 ## 📚 Programming Languages
 <p>
@@ -32,7 +34,7 @@
 ![](https://streak-stats.demolab.com/?user=Taha-Shaikh7&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Taha-Shaikh7&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-📈 Contribution Activity
+## 📈 Contribution Activity
 
 <p>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Taha-Shaikh7&theme=tokyo-night&hide_border=true" />
