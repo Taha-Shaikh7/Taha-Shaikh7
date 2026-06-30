@@ -22,7 +22,7 @@
 </a>
 
 <a href="https://mail.google.com/mail/?view=cm&to=ts4737076@gmail.com">
-<img src="gmail.avif" height="50" alt="Gmail">
+<img src="gmail.jpg" height="50" alt="Gmail">
 </a>
 
 
