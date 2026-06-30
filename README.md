@@ -32,6 +32,13 @@ Programming Languages
 ![](https://github-readme-stats.shion.dev/api?username=Taha-Shaikh7&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=Taha-Shaikh7&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Taha-Shaikh7&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+📈 Contribution Activity
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Taha-Shaikh7&theme=tokyo-night&hide_border=true" />
+</p>
+
 <!-- Snake Game Repo View -->
 
 <div align="center">
