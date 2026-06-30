@@ -52,6 +52,13 @@
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
+## 🏅 Certificates & Acheivements
+<a href="google.png"></a>
+<br>
+<a href="google2.png"></a>
+<br>
+<a href="google3.png"></a>
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Taha-Shaikh7&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 ## ✍️ Random Dev Quote
