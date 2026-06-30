@@ -30,12 +30,17 @@
 <p>
 <img src="https://skillicons.dev/icons?i=python,cpp,java,html,css" />
 </p>
+
 # 📊 GitHub Stats:
-![](https://streak-stats.demolab.com/?user=Taha-Shaikh7&theme=tokyo-night&hide_border=false)<br/>
 <p>
-<img src="https://github-readme-stats-ten-olive-80.vercel.app/api/top-langs/?username=Taha-Shaikh7&theme=omni&include_all_commits=true&count_private=true&hide_border=true&layout=donut&custom_title=MuhammadTaha%20Most%20Used%20Languages&text_color=e8df7a"><img src="https://github-readme-stats-ten-olive-80.vercel.app/api?username=Taha-Shaikh7&show_icons=f&line_height=30&rank_icon=github&theme=omni&hide_border=true&text_color=e8df7a"><br>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Taha-Shaikh7&theme=omni&exclude={}" width="33%"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Taha-Shaikh7&theme=omni&exclude={exclude}" width="33%"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Taha-Shaikh7&theme=omni&utcOffset=+5" width="33%"><br>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Taha-Shaikh7&theme=omni" width="100%">
+  <img src="https://github-readme-stats-ten-olive-80.vercel.app/api/top-langs/?username=Taha-Shaikh7&theme=tokyo-night&include_all_commits=true&count_private=true&hide_border=true&layout=donut&custom_title=MuhammadTaha%20Most%20Used%20Languages&text_color=e8df7a">
+  <img src="https://github-readme-stats-ten-olive-80.vercel.app/api?username=Taha-Shaikh7&show_icons=false&line_height=30&rank_icon=github&theme=tokyo-night&hide_border=true&text_color=e8df7a"><br>
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Taha-Shaikh7&theme=tokyo-night&exclude={}" width="33%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Taha-Shaikh7&theme=tokyo-night&exclude={exclude}" width="33%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Taha-Shaikh7&theme=tokyo-night&utcOffset=+5" width="33%"><br>
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Taha-Shaikh7&theme=tokyo-night" width="100%">
 </p>
 
 ## 📈 Contribution Activity
