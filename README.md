@@ -2,13 +2,9 @@
     <a href="https://github.com/Taha-Shaikh7">
     <img src="https://readme-typing-svg.demolab.com/?lines=Hi%20there,%20I'm%20MuhammadTaha!;Future+AI+Engineer;Machine+Learning+Enthusiast;Open+to+Internships+%26+Collaboration;Python+Developer&font=Fira%20Code&center=true&width=640&height=45&color=0A66C2Center=true&pause=1000&size=30" />
     </a>
-
-
-
-
-<img src="user.gif" height="100" width="100" max-width="300px" width="350px" align="right"><img width="300" alt="🦑" src="https://raw.githubusercontent.com/Taha-Shaikh7/Taha-Shaikh7/main/github-metrics.svg"><br>
-<img  width="300" alt="🦑" src="https://raw.githubusercontent.com/Taha-Shaikh7/Taha-Shaikh7/main/metrics.plugin.isocalendar.fullyear.svg">
-
+<div align="left">
+  <img src="user.gif" alt="Demo" width=300 length=300>
+</div>
 ## 📫 Connect with Me
 
 <a href="https://linkedin.com/in/taha-shaikh-82b497355" target="_blank" rel="noopener noreferrer">
