@@ -18,7 +18,7 @@
 
 # 💻 Tech Stack:
 <p>
-<img src="https://skillicons.dev/icons?i=python,cpp,java,html,css" />
+<img src="https://skillicons.dev/icons?i=python,cpp,java,html,css,numpy,pandas,matplolib" />
 </p>
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Taha-Shaikh7&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
