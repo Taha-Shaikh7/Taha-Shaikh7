@@ -1,4 +1,8 @@
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=800&lines=💫+Hey+👋+I'am+Muhammad+Taha;Artificial+Intelligence+Student;Future+AI+Engineer;Machine+Learning+Enthusiast;Python+Developer;Open+to+Internships+%26+Collaboration" /></div>
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=💫+Hey+👋+I'm+Muhammad+Taha;Artificial+Intelligence+Student;Future+AI+Engineer;Machine+Learning+Enthusiast;Python+Developer;Open+to+Internships+%26+Collaboration" />
+
+</div>
 
 # 💫 Hi 👋, Muhammad Taha 
 **A passionate Artifical Intelligence || Software development || Programming**
