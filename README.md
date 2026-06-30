@@ -54,11 +54,11 @@
 
 ## 🏅 Certificates & Achievements
 
-<a href="google.png">Google Certificate 1</a>
+<img src="google.png" alt="Google Certificate" width="300">
 <br>
-<a href="google2.png">Google Certificate 2</a>
+<img src="google2.png" alt="Google Certificate 2" width="300">
 <br>
-<a href="google3.png">Google Certificate 3</a>
+<img src="google3.png" alt="Google Certificate 3" width="300">
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Taha-Shaikh7&theme=radical&no-frame=false&no-bg=false&margin-w=4)
