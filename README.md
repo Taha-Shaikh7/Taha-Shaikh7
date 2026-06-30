@@ -12,9 +12,13 @@
 ## 📫 Connect with Me
 <a href="https://linkedin.com/in/taha-shaikh-82b497355">
 <img src="linked.jpg" height="40" alt="LinkedIn"></a>
-</a>&nbsp;&nbsp;
+
 <a href="https://x.com/TahaShaikh50016">
-<img src="twitter.avif" height="38" alt="X">
+<img src="twitter.avif" height="40" alt="X">
+</a>
+
+<a href="https://instagram.com/muhammad_taha_shaikh">
+<img src="instagram.avif" height="40" alt="Instagram">
 
 
 
