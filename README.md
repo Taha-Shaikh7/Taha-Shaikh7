@@ -18,7 +18,7 @@
 ## 📫 Connect with Me
 <a href="https://linkedin.com/in/taha-shaikh-82b497355">
         <img src="linked.jpg" height="40" alt="LinkedIn">
-    </a>
+    </a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 ## 📚 Programming Languages
 <p>
