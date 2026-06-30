@@ -4,10 +4,10 @@
     </a>
 
 
-<div align="left">
-  <img src="user.gif" alt="Demo" width=300 length=300>
-</div>
 
+
+<img src="user.gif" height="100" width="100" max-width="300px" width="350px" align="right"><img width="300" alt="🦑" src="https://raw.githubusercontent.com/Taha-Shaikh7/Taha-Shaikh7/main/github-metrics.svg"><br>
+<img  width="300" alt="🦑" src="https://raw.githubusercontent.com/Taha-Shaikh7/Taha-Shaikh7/main/metrics.plugin.isocalendar.fullyear.svg">
 
 ## 📫 Connect with Me
 
