@@ -55,9 +55,7 @@
 ## 🏅 Certificates & Achievements
 
 <img src="google.png" alt="Google Certificate" width="300">
-<br>
 <img src="google2.png" alt="Google Certificate 2" width="300">
-<br>
 <img src="google3.png" alt="Google Certificate 3" width="300">
 
 ## 🏆 GitHub Trophies
