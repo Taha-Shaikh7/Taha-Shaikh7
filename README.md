@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://github.com/Taha-Shaikh7">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hi%20there,%20I'm%20MuhammadTaha!;Future+AI+Engineer;Machine+Learning+Enthusiast;Open+to+Internships+%26+Collaboration;Python+Developer&font=Fira%20Code&center=true&width=640&height=45&color=0A66C2Center=true&pause=1000&size=30" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hi%20there,%20I'm%20MuhammadTaha!;Future+AI+Engineer;Machine+Learning+Enthusiast;Open+to+Internships+%26+Collaboration;Python+Developer&font=Fira%20Code&center=true&width=440&height=45&color=36BCF7&vCenter=true&pause=1000&size=22" />
     </a>
 <div align="left">
   <img src="user.gif" alt="Demo" width=300 length=300>
@@ -33,9 +33,9 @@
 
 # 📊 GitHub Stats:
 <p>
-img src="https://github-readme-streak-stats-eight.vercel.app/?user=Taha-Shaikh7&theme=tokyonight&hide_border=true&sideNums=e8df7a&fire=e8df7a&dates=e8df7a"><br>
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=Taha-Shaikh7&theme=tokyonight&hide_border=true&sideNums=e8df7a&fire=e8df7a&dates=e8df7a"><br>
     <img src="https://github-readme-stats-ten-olive-80.vercel.app/api/top-langs/?username=Taha-Shaikh7&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&layout=donut&custom_title=%20Most%20Used%20Languages&text_color=e8df7a"><img src="https://github-readme-stats-ten-olive-80.vercel.app/api?username=Taha-Shaikh7&show_icons=f&line_height=30&rank_icon=github&theme=tokyonight&hide_border=true&text_color=e8df7a"><br>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Taha-Shaikh7&theme=tokyonight&exclude={}" width="33%"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Taha-Shaikh7&theme=tokyonight&exclude={exclude}" width="33%"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Taha-Shaikh7&theme=tokyonight&utcOffset=+5" width="33%"><br>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Taha-Shaikh7&theme=tokyonight&exclude={}" width="33%"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Taha-Shaikh7&theme=tokyonight&exclude={}" width="33%"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Taha-Shaikh7&theme=tokyonight&utcOffset=+5" width="33%"><br>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Taha-Shaikh7&theme=tokyonight" width="100%">
 </p>
 
