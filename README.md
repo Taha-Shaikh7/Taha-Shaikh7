@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://github.com/Taha-Shaikh7">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hi%20there,%20I'm%20MuhammadTaha!;Future+AI+Engineer;Machine+Learning+Enthusiast;Open+to+Internships+%26+Collaboration;Python+Developer&font=Fira%20Code&center=true&width=440&height=45&color=1A1B26&vCenter=true&pause=1000&size=22" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hi%20there,%20I'm%20MuhammadTaha!;Future+AI+Engineer;Machine+Learning+Enthusiast;Open+to+Internships+%26+Collaboration;Python+Developer&font=Fira%20Code&center=true&width=440&height=45&color=4B0082&vCenter=true&pause=1000&size=22" />
     </a>
 <div align="left">
   <img src="user.gif" alt="Demo" width=300 length=300>
@@ -54,10 +54,12 @@
 
 ## 🏅 Certificates & Achievements
 
-<div style="display: flex; gap: 20px; flex-wrap: wrap;">
+<div style="display: flex; gap: 30px; flex-wrap: wrap;">
   <img src="google.png" alt="Google Certificate" width="300">
   <img src="google2.png" alt="Google Certificate 2" width="300">
   <img src="google3.png" alt="Google Certificate 3" width="300">
+    <img src="google ai.jpeg" alt="Google Certificate 4" width="300">
+    <img src="AI.jpeg" alt="Google Certificate 5" width="300">
 </div>
 
 ## 🏆 GitHub Trophies
