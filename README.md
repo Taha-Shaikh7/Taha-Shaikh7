@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://github.com/Taha-Shaikh7">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hi%20there,%20I'm%20MuhammadTaha!;Future+AI+Engineer;Machine+Learning+Enthusiast;Open+to+Internships+%26+Collaboration;Python+Developer&font=Fira%20Code&center=true&width=440&height=45&color=4B0082&vCenter=true&pause=1000&size=22" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hi%20there,%20I'm%20MuhammadTaha!;Future+AI+Engineer;Machine+Learning+Enthusiast;Python+Developer;Open+to+Internship+%26+Collaboration&font=Fira%20Code&center=true&width=440&height=45&color=4B0082&vCenter=true&pause=1000&size=22" />
     </a>
 <div align="left">
   <img src="user.gif" alt="Demo" width=300 length=300>
@@ -63,6 +63,6 @@
 </div>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Taha-Shaikh7&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-achievements/?username=Taha-Shaikh7&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 ## ✍️ Random Dev Quote
 <img src="https://quotes-github-readme.vercel.app/api?type=vetical&quoteColor=0A66C2&authorColor=d8d8dd&backgroundColor=RRGGBBAA&symbolColor=e8df7a">
