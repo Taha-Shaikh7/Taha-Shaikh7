@@ -62,8 +62,5 @@
     <img src="AI.jpeg" alt="Google Certificate 5" width="300">
 </div>
 
-## 🏆 GitHub Achievements
-
-[![GitHub Achievements](https://github-profile-trophy.vercel.app/?username=Taha-Shaikh7&theme=onedark)](https://github.com/Taha-Shaikh7)
 ## ✍️ Random Dev Quote
 <img src="https://quotes-github-readme.vercel.app/api?type=vetical&quoteColor=0A66C2&authorColor=d8d8dd&backgroundColor=RRGGBBAA&symbolColor=e8df7a">
