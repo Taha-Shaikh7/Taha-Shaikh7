@@ -32,7 +32,7 @@
 </p>
 
 # 📊 GitHub Stats:
-<p align="center">
+<p>
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Taha-Shaikh7&theme=tokyonight&hide_border=true&sideNums=e8df7a&fire=e8df7a&dates=e8df7a"><br>
 
   <img src="https://github-readme-stats-ten-olive-80.vercel.app/api/top-langs/?username=Taha-Shaikh7&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&layout=donut&custom_title=Top%20Most%20Used%20Languages&text_color=e8df7a">
