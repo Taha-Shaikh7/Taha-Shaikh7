@@ -43,9 +43,9 @@
 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Taha-Shaikh7&theme=tokyonight" width="35%">
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Taha-Shaikh7&theme=omni&utcOffset=+5" width="33%"><br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Taha-Shaikh7&theme=tokyonight&utcOffset=+5" width="35%"><br>
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Taha-Shaikh7&theme=omni" width="100%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Taha-Shaikh7&theme=tokyonight" width="100%">
 </p>
 
 ## 📈 Contribution Activity
