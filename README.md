@@ -39,9 +39,9 @@
 
   <img src="https://github-readme-stats-ten-olive-80.vercel.app/api?username=Taha-Shaikh7&show_icons=true&line_height=28&rank_icon=github&theme=tokyonight&hide_border=true&text_color=e8df7a"><br>
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Taha-Shaikh7&theme=omni" width="35%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Taha-Shaikh7&theme=tokyonight" width="35%">
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Taha-Shaikh7&theme=omni" width="35%"><br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Taha-Shaikh7&theme=tokyonight" width="35%">
 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Taha-Shaikh7&theme=omni&utcOffset=+5" width="33%"><br>
 
