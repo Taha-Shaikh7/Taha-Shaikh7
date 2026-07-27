@@ -39,9 +39,10 @@
 </h2>
 <p>
     <a href="https://leetcode.com/u/tahashaikh123/">
-    <img src="https://leetcard.jacoblin.cool/tahashaikh123?theme=tokyonight&ext=heatmap">
+    <img src="https://leetcard.jacoblin.cool/tahashaikh123?theme=unicorn&ext=heatmap">
     </a>
-</p> see the contrast is it ok 
+</p> 
+
 
 
 ## 📊 GitHub Stats:
