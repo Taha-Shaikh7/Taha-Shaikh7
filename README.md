@@ -37,7 +37,11 @@
         <span style="color:#e8df7a; font-size: 1.5em; vertical-align: middle;">LeetCode Stats:</span>
         
 </h2>
-
+<p>
+    <a href="https://leetcode.com/u/tahashaikh123/">
+    <img src="https://leetcard.jacoblin.cool/tahashaikh123?theme=unicorn&ext=heatmap">
+    </a>
+</p>
 
 
 
