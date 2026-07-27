@@ -31,7 +31,16 @@
 <img src="https://skillicons.dev/icons?i=python,cpp,java,html,css" />
 </p>
 
-# 📊 GitHub Stats:
+## leet Code Stats: 
+<h2 style="color:#e8df7a; display: flex; align-items: center;">
+    <a href="https://leetcode.com/u/tahashaikh123/" style="display: inline-flex; align-items: center; text-decoration: none;">
+        
+</h2>
+
+
+
+
+## 📊 GitHub Stats:
 <p>
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Taha-Shaikh7&theme=tokyonight&hide_border=true&sideNums=e8df7a&fire=e8df7a&dates=e8df7a"><br>
 
