@@ -31,7 +31,7 @@
 <img src="https://skillicons.dev/icons?i=python,cpp,java,html,css" />
 </p>
 
-<h2 style="color:#7AA2F7; display: flex; align-items: center;">
+<!--<h2 style="color:#7AA2F7; display: flex; align-items: center;">
     <a href="https://leetcode.com/u/tahashaikh123/" style="display: inline-flex; align-items: center; text-decoration: none;">
     <img src="leetcode.svg" height="40" style="vertical-align: middle; margin-right: 8px;"></a>
         <span style="color:#C0CAF5; font-size: 1.5em; vertical-align: middle;">LeetCode Stats:</span>
@@ -41,7 +41,7 @@
     <a href="https://leetcode.com/u/tahashaikh123/">
     <img src="https://leetcard.jacoblin.cool/tahashaikh123?theme=Forest&ext=heatmap">
     </a>
-</p> 
+</p> -->
 
 
 
