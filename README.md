@@ -9,11 +9,11 @@
 ## 📫 Connect with Me
 
 <a href="https://linkedin.com/in/taha-shaikh-82b497355" target="_blank" rel="noopener noreferrer">
-  <img src="linked.avif" height="70" alt="LinkedIn">
+  <img src="linked.avif" height="50" alt="LinkedIn">
 </a>
 
 <a href="https://wa.link/t3b7yd" target="_blank" rel="noopener noreferrer">
-  <img src="whatsapp.jpg" height="70" alt="Whatsapp">
+  <img src="whatsapp.jpg" height="50" alt="Whatsapp">
 </a>
 
 <a href="https://x.com/TahaShaikh50016" target="_blank" rel="noopener noreferrer">
