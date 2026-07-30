@@ -11,24 +11,18 @@
 <a href="https://linkedin.com/in/taha-shaikh-82b497355" target="_blank" rel="noopener noreferrer">
   <img src="linked.avif" height="50" alt="LinkedIn">
 </a>
-
 <a href="https://wa.link/t3b7yd" target="_blank" rel="noopener noreferrer">
   <img src="whatsapp.jpg" height="50" alt="Whatsapp">
 </a>
-
 <a href="https://x.com/TahaShaikh50016" target="_blank" rel="noopener noreferrer">
   <img src="twitter.avif" height="50" alt="X">
 </a>
-
 <a href="https://instagram.com/muhammad_taha_shaikh" target="_blank" rel="noopener noreferrer">
   <img src="instagram.avif" height="50" alt="Instagram">
 </a>
-
 <a href="mailto:ts4737076@gmail.com">
   <img src="gmail.jpg" height="55" alt="Gmail">
 </a>
-
-
 
 ## 📚 Programming Languages
 <p>
