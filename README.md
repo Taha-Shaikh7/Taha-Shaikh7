@@ -7,18 +7,22 @@
 </div>
 
 ## 📫 Connect with Me
-
-<a href="https://linkedin.com/in/taha-shaikh-82b497355" target="_blank" rel="noopener noreferrer"></a>
-  <img src="linked.avif" height="50" alt="LinkedIn">
-<a href="https://wa.link/t3b7yd" target="_blank" rel="noopener noreferrer"></a>
-  <img src="whatsapp.jpg" height="50" alt="Whatsapp">
-<a href="https://x.com/TahaShaikh50016" target="_blank" rel="noopener noreferrer"></a>
-  <img src="twitter.avif" height="50" alt="X">
-<a href="https://instagram.com/muhammad_taha_shaikh" target="_blank" rel="noopener noreferrer"></a>
-  <img src="instagram.avif" height="50" alt="Instagram">
-<a href="mailto:ts4737076@gmail.com"></a>
-  <img src="gmail.jpg" height="55" alt="Gmail">
-
+<p>
+<a href="https://linkedin.com/in/taha-shaikh-82b497355" target="_blank" rel="noopener noreferrer">
+  <img src="linked.avif" height="55" alt="LinkedIn"></a>
+  
+<a href="https://wa.link/t3b7yd" target="_blank" rel="noopener noreferrer">
+  <img src="whatsapp.jpg" height="55" alt="Whatsapp"></a>
+  
+<a href="https://x.com/TahaShaikh50016" target="_blank" rel="noopener noreferrer">
+  <img src="twitter.avif" height="55" alt="X"></a>
+  
+<a href="https://instagram.com/muhammad_taha_shaikh" target="_blank" rel="noopener noreferrer">
+  <img src="instagram.avif" height="55" alt="Instagram"></a>
+    
+<a href="mailto:ts4737076@gmail.com" target="_blank">
+  <img src="gmail.jpg" height="55" alt="Gmail"></a>
+</p>
 
 ## 📚 Programming Languages
 <p>
