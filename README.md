@@ -13,15 +13,15 @@
 <a href="https://wa.link/t3b7yd" target="_blank" rel="noopener noreferrer"></a>
   <img src="whatsapp.jpg" height="50" alt="Whatsapp">
 
-<a href="https://x.com/TahaShaikh50016" target="_blank" rel="noopener noreferrer">
+<a href="https://x.com/TahaShaikh50016" target="_blank" rel="noopener noreferrer"></a>
   <img src="twitter.avif" height="50" alt="X">
-</a>
-<a href="https://instagram.com/muhammad_taha_shaikh" target="_blank" rel="noopener noreferrer">
+
+<a href="https://instagram.com/muhammad_taha_shaikh" target="_blank" rel="noopener noreferrer"></a>
   <img src="instagram.avif" height="50" alt="Instagram">
-</a>
-<a href="mailto:ts4737076@gmail.com">
+
+<a href="mailto:ts4737076@gmail.com"></a>
   <img src="gmail.jpg" height="55" alt="Gmail">
-</a>
+
 
 ## 📚 Programming Languages
 <p>
