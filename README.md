@@ -66,11 +66,10 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Taha-Shaikh7&theme=tokyo-night&hide_border=true" />
 </p>
 
-<!-- Snake Game Repo View -->
-
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
+<p>
+<img src="https://raw.githubusercontent.com/Taha-Shaikh7/Taha-Shaikh7/snake/github-snake-dark.svg" width="100%"><br>
+    <img src="https://raw.githubusercontent.com/Taha-Shaikh7/Taha-Shaikh7/output-3d-contrib/profile-green-dual.svg" alt="3D Contributions"/>
+</p>
 
 ## 🏅 Certificates & Achievements
 
