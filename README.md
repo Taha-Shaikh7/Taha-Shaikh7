@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://github.com/Taha-Shaikh7">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hi%20there,%20I'm%20MuhammadTaha!;Future+AI+Engineer;Machine+Learning+Enthusiast;Python+Developer;Open+to+Internship+%26+Collaboration&font=Fira%20Code&center=true&width=440&height=45&color=4B0082&vCenter=true&pause=1000&size=22" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hi%20there,%20I'm%20MuhammadTaha!;AI+Engineer;Python+Developer;Open+to+Internship+Collaboration&font=Fira%20Code&center=true&width=440&height=45&color=4B0082&vCenter=true&pause=1000&size=22" />
     </a>
 <div align="left">
   <img src="user.gif" alt="Demo" width=300 length=300>
