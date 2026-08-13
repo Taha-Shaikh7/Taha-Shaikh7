@@ -1,10 +1,9 @@
-<p align="center">
-    <a href="https://github.com/Taha-Shaikh7">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hi%20there,%20I'm%20MuhammadTaha!;AI+Engineer;Python+Developer;Open+to+Internship+Collaboration&font=Fira%20Code&center=true&width=440&height=45&color=4B0082&vCenter=true&pause=1000&size=22" />
-    </a>
-<div align="left">
-  <img src="user.gif" alt="Demo" width=300 length=300>
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Muhammad%20Taha&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=⚡%20Frontend%20Developer%20%7C%20UI%20Craftsman%20%7C%20Open%20to%20Work%20⚡&descAlignY=62&descSize=17&descColor=a8d8ea" />
+
 </div>
+
 
 ## 📫 Connect with Me
 <p>
