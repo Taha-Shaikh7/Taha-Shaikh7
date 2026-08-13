@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/Taha-Shaikh7">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hi%20there,%20I'm%20Muhammad%20Taha!;AI+Engineer;Python+Developer;Open+to+Internship+%26+Collaboration&font=Fira+Code&weight=700&size=32&center=true&width=700&height=60&color=4B0082&vCenter=true&pause=1000" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hi%20there,%20I'm%20Muhammad%20Taha!;AI+Engineer;Python+Developer;Open+to+Internship+%26+Collaboration;Always+Learning+Always+Growing&font=Fira+Code&weight=700&size=32&center=true&width=700&height=60&color=000080&vCenter=true&pause=1000" />
   </a>
 </p>
 
