@@ -3,7 +3,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1f3a,50:1d4e89,100:3b82f6&height=220&section=header&text=Muhammad%20Taha&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=%20🤖AI%20Engineer%20%7C%20Build%20Intelligent%20Systems%20%7C%20Open%20to%20Work🤖%20&descAlignY=62&descSize=17&descColor=a8d8ea" />
 
 </div>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&multiline=false&random=false&width=650&height=50&lines=👋+Hello+World!+I'm+Muhammad+Taha;🤖+AI+Engineer;Python+Developer+%26+Machine+Lerning;🚀+Always+Learning%2C+Always+Growing!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=650&height=50&lines=%F0%9F%91%8B+Hello+World!+I'm+Muhammad+Taha;%F0%9F%A4%96+AI+Engineer;%F0%9F%90%8D+Python+Developer+%26+Machine+Learning;%F0%9F%9A%80+Open+to+Internships+%26+Collaboration;%F0%9F%93%9A+Always+Learning,+Always+Growing!)](https://git.io/typing-svg)
 
 
 
