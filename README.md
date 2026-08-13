@@ -7,7 +7,9 @@
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=000080&center=true&vCenter=true&width=435&lines=%F0%9F%91%8B+Hi+there%2C+I'm+Muhammad+Taha!+;%F0%9F%A4%96+AI+Engineer;%F0%9F%90%8D+Python+Developer;%F0%9F%92%BC+Open+to+Internships+;%E2%9A%A1+Build+Intelligent+Solutions;%F0%9F%8C%9F+Building+AI-Powered+Applications;%F0%9F%8C%8DOpen+Source+Contributor;%F0%9F%9A%80Always+Learning+%2CAlways+Growing" alt="Typing SVG" /></a>
 </p>
-
+<div align="left">
+  <img src="user.gif" alt="Demo" width=300 length=300>
+</div>
 
 
 ## 📫 Connect with Me
