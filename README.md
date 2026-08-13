@@ -5,9 +5,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/Taha-Shaikh7">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hi%20there,%20I'm%20Muhammad%20Taha!;🤖 AI+Engineer;🐍Python+Developer;💼Open+to+Internship+%26+Collaboration;🚀 Turning+Ideas+into+Intelligent+Solutions;🌍+Open+Source+Contributor;🚀Always+Learning+,+Always+Growing!&font=Fira+Code&weight=700&size=32&center=true&width=700&height=60&color=000080&vCenter=true&pause=1000" />
-  </a>
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=000080&background=FCFFF300&center=true&vCenter=true&width=435&lines=%F0%9F%91%8B+Hi+there%2C+I'm+Muhammad+Taha!+;%F0%9F%A4%96+AI+Engineer;%F0%9F%90%8D+Python+Developer;%F0%9F%92%BC+Open+to+Internships+%26+Collaboration;%E2%9A%A1+Turning+Ideas+into+Intelligent+Solutions;%F0%9F%8C%9F+Building+AI-Powered+Applications;%F0%9F%8C%8DOpen+Source+Contributor;%F0%9F%9A%80Always+Learning+%2CAlways+Growing)](https://git.io/typing-svg)
 </p>
 
 
