@@ -3,7 +3,11 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1f3a,50:1d4e89,100:3b82f6&height=220&section=header&text=Muhammad%20Taha&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=%20🤖AI%20Engineer%20%7C%20Build%20Intelligent%20Systems%20%7C%20Open%20to%20Work🤖%20&descAlignY=62&descSize=17&descColor=a8d8ea" />
 
 </div>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=650&lines=Hello+World!+I'm+Muhammad+Taha;AI+Engineer;Python+Developer+%26+Machine+Learning;Open+to+Internships+%26+Collaboration;Always+Learning,+Always+Growing!)](https://git.io/typing-svg)
+<p align="center">
+    <a href="https://github.com/Taha-Shaikh7">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hi%20there,%20I'm%20MuhammadTaha!;AI+Engineer;Python+Developer;Open+to+Internship+Collaboration&font=Fira%20Code&center=true&width=440&height=45&color=4B0082&vCenter=true&pause=1000&size=22" />
+    </a>
+
 
 
 
