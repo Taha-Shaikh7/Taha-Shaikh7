@@ -1,13 +1,14 @@
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1f3a,50:1d4e89,100:3b82f6&height=220&section=header&text=Muhammad%20Taha&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=%20🤖AI%20Engineer%20%7C%20Build%20Intelligent%20Systems%20%7C%20Open%20to%20Work🤖%20&descAlignY=62&descSize=17&descColor=a8d8ea" />
-
 </div>
-<p align="center">
-    <a href="https://github.com/Taha-Shaikh7">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hi%20there,%20I'm%20MuhammadTaha!;AI+Engineer;Python+Developer;Open+to+Internship+Collaboration&font=Fira%20Code&center=true&width=440&height=45&color=4B0082&vCenter=true&pause=1000&size=22" />
-    </a>
 
+
+<p align="center">
+  <a href="https://github.com/Taha-Shaikh7">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hi%20there,%20I'm%20Muhammad%20Taha!;AI+Engineer;Python+Developer;Open+to+Internship+%26+Collaboration&font=Fira+Code&weight=700&size=32&center=true&width=700&height=60&color=4B0082&vCenter=true&pause=1000" />
+  </a>
+</p>
 
 
 
