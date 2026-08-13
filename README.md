@@ -79,9 +79,11 @@
     <img src="micro media flash project .jpeg" alt="micro media flash" width="300">
     <img src="foundation semester.jpeg" alt="foundation semester" width="300">
     <img src="google3.png" alt="Google Certificate 3" width="260">
+    <br>
     <img src="OAT.jpeg" alt="OAT Certificate" width="330">
-    <img src="AI.jpeg" alt="Google Certificate 5" width="260">
+    <img src="AI.jpeg" alt="Google Certificate 5" width="300">
     <img src="chatbot.jpeg" alt="chatbot Certificate" width="330">
+    <br>
     <img src="google2.png" alt="Google Certificate 2" width="300">
     <img src="google ai.jpeg" alt="Google Certificate 4" width="300">
     
